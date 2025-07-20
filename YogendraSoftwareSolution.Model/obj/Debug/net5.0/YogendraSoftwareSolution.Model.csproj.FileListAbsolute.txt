@@ -1,0 +1,36 @@
+F:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\bin\Debug\net5.0\YogendraSoftwareSolution.Model.deps.json
+F:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\bin\Debug\net5.0\YogendraSoftwareSolution.Model.dll
+F:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\bin\Debug\net5.0\YogendraSoftwareSolution.Model.pdb
+F:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.csproj.AssemblyReference.cache
+F:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.AssemblyInfoInputs.cache
+F:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.AssemblyInfo.cs
+F:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.csproj.CoreCompileInputs.cache
+F:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.dll
+F:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\ref\YogendraSoftwareSolution.Model.dll
+F:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.pdb
+F:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\refint\YogendraSoftwareSolution.Model.dll
+G:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\bin\Debug\net5.0\YogendraSoftwareSolution.Model.deps.json
+G:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\bin\Debug\net5.0\YogendraSoftwareSolution.Model.dll
+G:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\bin\Debug\net5.0\YogendraSoftwareSolution.Model.pdb
+G:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.csproj.AssemblyReference.cache
+G:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.GeneratedMSBuildEditorConfig.editorconfig
+G:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.AssemblyInfoInputs.cache
+G:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.AssemblyInfo.cs
+G:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.csproj.CoreCompileInputs.cache
+G:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.dll
+G:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\refint\YogendraSoftwareSolution.Model.dll
+G:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.pdb
+G:\ASP.NET CORE Project 03.03.2022\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\ref\YogendraSoftwareSolution.Model.dll
+C:\Users\Er Yogendra Kumar\OneDrive\Desktop\Project\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\bin\Debug\net5.0\YogendraSoftwareSolution.Model.deps.json
+C:\Users\Er Yogendra Kumar\OneDrive\Desktop\Project\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\bin\Debug\net5.0\YogendraSoftwareSolution.Model.dll
+C:\Users\Er Yogendra Kumar\OneDrive\Desktop\Project\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\bin\Debug\net5.0\YogendraSoftwareSolution.Model.pdb
+C:\Users\Er Yogendra Kumar\OneDrive\Desktop\Project\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.csproj.AssemblyReference.cache
+C:\Users\Er Yogendra Kumar\OneDrive\Desktop\Project\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Er Yogendra Kumar\OneDrive\Desktop\Project\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.AssemblyInfoInputs.cache
+C:\Users\Er Yogendra Kumar\OneDrive\Desktop\Project\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.AssemblyInfo.cs
+C:\Users\Er Yogendra Kumar\OneDrive\Desktop\Project\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.csproj.CoreCompileInputs.cache
+C:\Users\Er Yogendra Kumar\OneDrive\Desktop\Project\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.dll
+C:\Users\Er Yogendra Kumar\OneDrive\Desktop\Project\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\refint\YogendraSoftwareSolution.Model.dll
+C:\Users\Er Yogendra Kumar\OneDrive\Desktop\Project\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\YogendraSoftwareSolution.Model.pdb
+C:\Users\Er Yogendra Kumar\OneDrive\Desktop\Project\YogendraProject\YogendraSoftwareSolution\YogendraSoftwareSolution.Model\obj\Debug\net5.0\ref\YogendraSoftwareSolution.Model.dll
